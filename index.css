@@ -1,0 +1,431 @@
+.show1-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 29px;
+  width: 645px;
+  height: 477px;
+  object-fit: cover;
+}
+.mens-shoes,
+.nike-dunk-sb {
+  display: inline-block;
+  width: 612px;
+  height: 68px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.nike-dunk-sb {
+  position: absolute;
+  top: 0;
+  left: 702px;
+  font-size: var(--font-size-21xl);
+}
+.mens-shoes {
+  position: relative;
+  flex-shrink: 0;
+}
+.frame2,
+.frame3,
+.frame4,
+.frame5 {
+  position: absolute;
+  top: 0;
+  left: 702px;
+  width: 612px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame2 {
+  height: 112px;
+  color: rgba(0, 0, 0, 0.61);
+}
+.frame3,
+.frame4,
+.frame5 {
+  height: 180px;
+}
+.frame4,
+.frame5 {
+  height: 258px;
+}
+.frame5 {
+  left: 16px;
+  height: 561px;
+}
+.frame-child {
+  position: relative;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 243px;
+  height: 61px;
+}
+.frame6,
+.frame7,
+.frame8 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame6 {
+  left: 694px;
+  width: 243px;
+  height: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame7,
+.frame8 {
+  height: 414px;
+}
+.frame7 {
+  left: 694px;
+  width: 243px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame8 {
+  left: 1029px;
+}
+.frame10,
+.frame8,
+.frame9 {
+  width: 243px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame9 {
+  position: absolute;
+  top: 0;
+  left: 1029px;
+  height: 319px;
+  overflow: hidden;
+}
+.frame10 {
+  left: 694px;
+  height: 509px;
+}
+.frame-icon,
+.frame-icon1,
+.frame10,
+.frame11 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame11 {
+  left: 694px;
+  width: 243px;
+  height: 604px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-icon,
+.frame-icon1 {
+  left: 796px;
+  width: 423px;
+  height: 771px;
+}
+.frame-icon1 {
+  left: 0;
+  width: 637px;
+  height: 832px;
+}
+.frame12 {
+  left: 1029px;
+  width: 243px;
+  height: 604px;
+}
+.frame12,
+.frame13,
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame13 {
+  left: 1029px;
+  width: 243px;
+  height: 509px;
+}
+.frame14,
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  width: 612px;
+}
+.frame14 {
+  left: 884px;
+  height: 758px;
+  font-size: var(--font-size-21xl);
+}
+.frame15,
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  left: 769px;
+  height: 339px;
+}
+.frame16,
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  left: 1105px;
+  height: 340px;
+}
+.frame17,
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  left: 769px;
+  height: 435px;
+}
+.frame18,
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  left: 1095px;
+}
+.frame19,
+.frame20,
+.frame21,
+.frame22 {
+  left: 759px;
+  height: 534px;
+}
+.frame20,
+.frame21,
+.frame22 {
+  height: 629px;
+}
+.frame21,
+.frame22 {
+  left: 1095px;
+}
+.frame22 {
+  height: 534px;
+}
+.frame-icon2,
+.frame-icon3,
+.frame-icon4,
+.frame-icon5 {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  width: 51px;
+  height: 668px;
+  overflow: hidden;
+}
+.frame-icon3,
+.frame-icon4,
+.frame-icon5 {
+  left: 95px;
+}
+.frame-icon4,
+.frame-icon5 {
+  left: 161px;
+}
+.frame-icon5 {
+  left: 227px;
+}
+.frame-icon6 {
+  left: 297px;
+  width: 51px;
+  height: 668px;
+}
+.frame-icon6,
+.frame-icon7,
+.frame23 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame23 {
+  left: 396px;
+  width: 612px;
+  height: 697px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame-icon7 {
+  left: 556px;
+  width: 62px;
+  height: 674px;
+}
+.shoesss-2-icon {
+  position: relative;
+  width: 58px;
+  height: 37px;
+  object-fit: cover;
+}
+.frame24 {
+  position: absolute;
+  top: 0;
+  left: 560px;
+  width: 58px;
+  height: 661px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.amazing-quality-one {
+  margin: 0;
+}
+.amazing-quality-one-container {
+  position: relative;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 612px;
+  height: 68px;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.frame,
+.frame1,
+.frame25 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.frame25 {
+  left: 21px;
+  width: 612px;
+  height: 771px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame,
+.frame1 {
+  left: 427px;
+  width: 1717px;
+  height: 832px;
+}
+.frame {
+  top: 215px;
+  left: -352px;
+  width: 1777px;
+  height: 776px;
+}
+.kids,
+.new {
+  position: absolute;
+  top: calc(50% - 18.5px);
+  left: calc(50% - 198px);
+  display: inline-block;
+  width: 78px;
+  height: 36px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.kids {
+  left: calc(50% + 136px);
+  width: 114px;
+  height: 30px;
+}
+.seee-1-icon,
+.shoesss-1-icon {
+  position: absolute;
+  top: 0;
+  left: 27px;
+  width: 117px;
+  height: 81px;
+  object-fit: cover;
+}
+.seee-1-icon {
+  top: 5px;
+  left: 1226px;
+  border-radius: 66px;
+  width: 199px;
+  height: 64px;
+}
+.men,
+.women {
+  position: relative;
+  display: inline-block;
+  width: 98px;
+  height: 30px;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #000;
+}
+.women {
+  width: 114px;
+}
+.frame26,
+.frame27 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame27 {
+  top: 22px;
+  left: 622px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame26 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1440px;
+  height: 81px;
+  font-size: var(--font-size-11xl);
+}
+.desktop-1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-istok-web);
+}
